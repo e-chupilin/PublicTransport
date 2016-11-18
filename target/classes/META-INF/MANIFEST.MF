@@ -1,5 +1,7 @@
 Manifest-Version: 1.0
 Built-By: ded
+Class-Path: log4j-1.2.17.jar
 Build-Jdk: 1.8.0_102
 Created-By: Maven Integration for Eclipse
+Main-Class: TransportRunner
 

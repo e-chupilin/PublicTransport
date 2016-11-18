@@ -27,9 +27,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="c:\apache-maven-3.3.9\bin\..\bin\m2.conf"/>
+    <property name="classworlds.conf" value="C:\apache-maven-3.3.9\bin\..\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1251"/>
-    <property name="java.library.path" value="c:\Program Files\Java\jdk1.8.0_102\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;c:\apache-maven-3.3.9\bin;C:\apache-maven-3.3.9\bin;."/>
+    <property name="java.library.path" value="c:\Program Files\Java\jdk1.8.0_102\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;c:\apache-maven-3.3.9\bin;C:\Program Files\Git\cmd;c:\Program Files\Java\jdk1.8.0_102\bin\;C:\TCPU63;C:\Windows\System32;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
@@ -40,7 +40,7 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="Cp1251"/>
     <property name="user.name" value="ded"/>
-    <property name="java.class.path" value="c:\apache-maven-3.3.9\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.class.path" value="C:\apache-maven-3.3.9\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="32"/>
     <property name="java.home" value="c:\Program Files\Java\jdk1.8.0_102\jre"/>
@@ -54,7 +54,7 @@
     <property name="sun.boot.class.path" value="c:\Program Files\Java\jdk1.8.0_102\jre\lib\resources.jar;c:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar;c:\Program Files\Java\jdk1.8.0_102\jre\lib\sunrsasign.jar;c:\Program Files\Java\jdk1.8.0_102\jre\lib\jsse.jar;c:\Program Files\Java\jdk1.8.0_102\jre\lib\jce.jar;c:\Program Files\Java\jdk1.8.0_102\jre\lib\charsets.jar;c:\Program Files\Java\jdk1.8.0_102\jre\lib\jfr.jar;c:\Program Files\Java\jdk1.8.0_102\jre\classes"/>
     <property name="sun.stderr.encoding" value="cp866"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="c:\apache-maven-3.3.9\bin\.."/>
+    <property name="maven.home" value="C:\apache-maven-3.3.9\bin\.."/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>

@@ -32,7 +32,6 @@
  
   <plugins>
    
-      <!-- Maven JAR Plugin --> 
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-jar-plugin</artifactId>
@@ -41,6 +40,7 @@
           <archive>
             <manifest>
               <mainClass>TransportRunner</mainClass>
+              <addClasspath>true</addClasspath>              
             </manifest>
           </archive>
         </configuration>
