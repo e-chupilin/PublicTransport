@@ -2,6 +2,7 @@ package com.epam.training.constants;
 
 public class Constants {
 	public final static int ROUTE_LENGHT = 100;
+	
 	public final static String COLON = ": ";
 	public final static String DASH = "-";
 	public final static String LEFT_SQUARE_HOOKS = "[";
