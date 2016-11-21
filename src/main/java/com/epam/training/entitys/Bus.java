@@ -55,6 +55,10 @@ public class Bus implements Runnable {
 				synchronized (currentBusStop) {
 					while (currentBusStop.isBusAtBusStop()) {
 						try {
+							// This block can not use return, it is necessary in
+							// the rare cases when buses come to a stop at the
+							// same time. But it task bus have drive interval.
+
 							logData(this, WAIT_FOR_FREE);
 							currentBusStop.wait();
 							logData(this, currentBusStop + IS_FREE);
